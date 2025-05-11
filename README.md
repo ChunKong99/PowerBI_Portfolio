@@ -7,7 +7,7 @@
 
 # Preparations
 1)  Identify publicly available data: Alex Freberg's LinkedIn Dataset
-2)  Identify location of data: [Dataset] (https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx)
+2)  Identify location of data: [Dataset](https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx)
 3)  Integrity, bias, and credibility
 -   Licensed under CCO: Public Domain license
 -   Dataset is stored by user "Alex The Analyst" and made publicly accessible
@@ -24,7 +24,7 @@
 3)  Bins created for salary.
 
 ### Visualization
-Link to dashboard: [Dashboard] (https://github.com/ChunKong99/PowerBI_Portfolio/blob/main/dashboard/PowerBI_Portfolio.pbix))
+Link to dashboard: [Dashboard](https://github.com/ChunKong99/PowerBI_Portfolio/blob/main/dashboard/PowerBI_Portfolio.pbix))
 
 ![dashboard](images/dashboard_images.png)
 --contact Chun Kong at 0111-2992771 for more data analysis work--
