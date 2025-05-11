@@ -29,4 +29,4 @@ Link to dashboard: [Dashboard](https://github.com/ChunKong99/PowerBI_Portfolio/b
 ![dashboard](images/Dashboard_images.png)  
 
 
---contact Chun Kong at 0111-2992771 for more data analysis work--
+--contact Chun Kong at +60 111-2992771 or i_am_gary_lai@yahoo.com for more data analysis work--
