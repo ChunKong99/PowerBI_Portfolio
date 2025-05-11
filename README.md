@@ -26,7 +26,7 @@
 ## Visualization
 Link to dashboard: [Dashboard](https://github.com/ChunKong99/PowerBI_Portfolio/blob/main/dashboard/PowerBI_Portfolio.pbix)
 
-![dashboard](powerbi_portfolio/images/dashboard_images.png)  
+![dashboard](images/Dashboard_images.png)  
 
 
 --contact Chun Kong at 0111-2992771 for more data analysis work--
