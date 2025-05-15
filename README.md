@@ -1,7 +1,7 @@
 # Power BI Powerfolio
 ## Identify Objectives
 ### Objectives:
-1) Create dashboard to provide insight into:
+1) Create report to provide insight into:
 -  Trends of salary in relation to various variables
 -  Quick visualization for decision making
 
@@ -24,9 +24,9 @@
 3)  Bins created for salary.
 
 ## Visualization
-Link to dashboard: [Dashboard](https://github.com/ChunKong99/PowerBI_Portfolio/blob/main/dashboard/PowerBI_Portfolio.pbix)
+Link to report: [Power_BI_Report](https://github.com/ChunKong99/PowerBI_Portfolio/blob/main/report/PowerBI_Portfolio.pbix)
 
-![dashboard](images/Dashboard_images.png)  
+![Power_BI_Report](images/Report_images.png)  
 
 
 --contact Chun Kong at +60 111-2992771 or i_am_gary_lai@yahoo.com for more data analysis work--
