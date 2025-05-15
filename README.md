@@ -26,7 +26,7 @@
 ## Visualization
 Link to report: [Power_BI_Report](https://github.com/ChunKong99/PowerBI_Portfolio/blob/main/report/PowerBI_Portfolio.pbix)
 
-![Power_BI_Report](images/Report_images.png)  
+![Power_BI_Report](image/Report_image.png)  
 
 
 --contact Chun Kong at +60 111-2992771 or i_am_gary_lai@yahoo.com for more data analysis work--
